@@ -69,8 +69,13 @@ public class ConfigurationController {
     @PutMapping(value = "/configs/{name}",
             consumes = "application/json",
             produces = "application/json")
-    public String Update(@PathVariable String name) {
-        return name;
+    public ResponseEntity<ConfigurationResponseModel> Update(@RequestBody ConfigurationRequestModel configs, @PathVariable String name) {
+        ModelMapper modelMapper = new ModelMapper();
+        modelMapper.getConfiguration().setMatchingStrategy(MatchingStrategies.LOOSE);
+        Configuration configuration = modelMapper.map(configs, Configuration.class);
+        Configuration newConfigurations = configurationService.updateConfiguration(name,configuration);
+        ConfigurationResponseModel responseBody = modelMapper.map(newConfigurations, ConfigurationResponseModel.class);
+        return ResponseEntity.status(HttpStatus.OK).body(responseBody);
     }
 
     @DeleteMapping(value = "/configs/{name}",
