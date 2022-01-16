@@ -10,11 +10,14 @@ import java.util.List;
 public interface ConfigurationRepository extends CrudRepository<Configuration, Long> {
 
     Configuration findByName(String name);
+
     List<Configuration> findByMonitoringEnabled(String key);
-    List<Configuration>  findByCpuEnabled(String key);
-    List<Configuration>  findByCpuValue(String key);
+
+    List<Configuration> findByCpuEnabled(String key);
+
+    List<Configuration> findByCpuValue(String key);
+
     Long deleteByName(String name);
-    Configuration  saveOrUpdate(Configuration configuration);
 
 
 }
