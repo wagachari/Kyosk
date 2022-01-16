@@ -38,6 +38,12 @@ public class ConfigurationService {
     }
 
     public Configuration updateConfiguration(String name, Configuration config) {
+        Configuration configuration = configurationRepository.findByName(name);
+
+        Long idFromDb = configuration.getId();
+        if (idFromDb != null) {
+            config.setId(idFromDb);
+        }
         return configurationRepository.save(config);
     }
 }
