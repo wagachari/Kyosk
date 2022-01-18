@@ -1,0 +1,14 @@
+com\KyoskTest\Kyosk\model\response\ConfigurationResponseModel.class
+com\KyoskTest\Kyosk\model\request\ConfigurationRequestModel.class
+com\KyoskTest\Kyosk\controller\ConfigurationController$1.class
+com\KyoskTest\Kyosk\controller\ConfigurationController.class
+com\KyoskTest\Kyosk\model\shared\Limits.class
+com\KyoskTest\Kyosk\model\shared\Metadata.class
+com\KyoskTest\Kyosk\repository\ConfigurationRepository.class
+com\KyoskTest\Kyosk\entity\Configuration.class
+com\KyoskTest\Kyosk\service\ConfigurationService.class
+com\KyoskTest\Kyosk\KyoskApplication.class
+com\KyoskTest\Kyosk\controller\ConfigurationController$2.class
+com\KyoskTest\Kyosk\entity\ConfigurationDTO.class
+com\KyoskTest\Kyosk\model\shared\Cpu.class
+com\KyoskTest\Kyosk\model\shared\Monitoring.class
