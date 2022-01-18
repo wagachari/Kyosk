@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5912e388-7188-482f-a0ce-05c1a7cfecf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23lvG1xpOYTrz9Kc7hVViLvdYsO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mobireg" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KyoskApplication">
+    <configuration name="ConfigurationControllerTest.getWithName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kyosk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KyoskTest.Kyosk.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.KyoskTest.Kyosk.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.KyoskTest.Kyosk.controllers.ConfigurationControllerTest" />
+      <option name="METHOD_NAME" value="getWithName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KyoskApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kyosk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KyoskTest.Kyosk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.KyoskTest.Kyosk" />
+      <option name="MAIN_CLASS_NAME" value="com.KyoskTest.Kyosk.KyoskApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KyoskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Kyosk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.KyoskTest.Kyosk.KyoskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Kyosk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.KyoskTest.Kyosk.KyoskApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.KyoskApplication" />
+      <item itemvalue="JUnit.KyoskApplicationTests" />
+      <item itemvalue="JUnit.ConfigurationControllerTest.getWithName" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KyoskApplicationTests" />
+        <item itemvalue="JUnit.ConfigurationControllerTest.getWithName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5912e388-7188-482f-a0ce-05c1a7cfecf7" name="Default Changelist" comment="" />
+      <created>1642321388932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642321388932</updated>
+      <workItem from="1642321393899" duration="887000" />
+      <workItem from="1642322408825" duration="72000" />
+      <workItem from="1642322519225" duration="5905000" />
+      <workItem from="1642330394813" duration="81000" />
+      <workItem from="1642334396407" duration="792000" />
+      <workItem from="1642335226889" duration="1266000" />
+      <workItem from="1642337297666" duration="1962000" />
+      <workItem from="1642342009930" duration="591000" />
+      <workItem from="1642432831577" duration="10442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="93" key="#Project_Structure" timestamp="1642506398652">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="93" key="#Project_Structure/0.0.1600.870@0.0.1600.870" timestamp="1642506398652" />
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642506212990">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1642506212990" />
+    <state x="148" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642325322514">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="148" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870@0.0.1600.870" timestamp="1642325322514" />
+    <state x="529" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1642506208534">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="529" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.870@0.0.1600.870" timestamp="1642506208534" />
+    <state x="980" y="190" key="FileChooserDialogImpl" timestamp="1642513252032">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="980" y="190" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1642513252032" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1642526150971">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1642526150971" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1642526150971">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1642526150971" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1642526150970">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1642526150970" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1642526150971">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1642526150971" />
+    <state width="1557" height="226" key="GridCell.Tab.1.bottom" timestamp="1642526150972">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1642526150972" />
+    <state width="1557" height="226" key="GridCell.Tab.1.center" timestamp="1642526150972">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1642526150972" />
+    <state width="1557" height="226" key="GridCell.Tab.1.left" timestamp="1642526150971">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1642526150971" />
+    <state width="1557" height="226" key="GridCell.Tab.1.right" timestamp="1642526150972">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="226" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1642526150972" />
+    <state x="301" y="19" key="SettingsEditor" timestamp="1642506079182">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="19" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1642506079182" />
+    <state x="456" y="198" width="672" height="677" key="run.anything.popup" timestamp="1642525457923">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" width="672" height="677" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1642525457923" />
+    <state x="63" y="188" key="search.everywhere.popup" timestamp="1642323259705">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="63" y="188" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1642323259705" />
+    <state x="501" y="127" key="spring file set editor" timestamp="1642334994437">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="501" y="127" key="spring file set editor/0.0.1600.870@0.0.1600.870" timestamp="1642334994437" />
+  </component>
+</project>
