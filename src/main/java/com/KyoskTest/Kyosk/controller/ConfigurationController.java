@@ -41,7 +41,7 @@ public class ConfigurationController {
 
     @PostMapping(value = "/configs", consumes = "application/json", produces = "application/json")
     public ResponseEntity<ConfigurationResponseModel> Create(@RequestBody ConfigurationRequestModel configs) {
-
+    //TO DO: Validation of input parameters
         ModelMapper modelMapper = new ModelMapper();
         modelMapper.getConfiguration().setMatchingStrategy(MatchingStrategies.LOOSE);
         Configuration configuration = modelMapper.map(configs, Configuration.class);
